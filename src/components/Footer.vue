@@ -1,6 +1,6 @@
 <template>
     <footer>
-        <p>&copy; {{year}} | <a href="https://www.seblaise.dev" target="_blank">Coded by Blaise Sebagabo</a> | <a href="https://github.com/blaiseAI/spas" target="_blank"><i class="fab fa-github"></i></a></p>
+        <p>&copy; {{year}} | <a href="https://github.com/blaiseAI/vue-router-boilerplate" target="_blank"><i class="fab fa-github"></i></a></p>
     </footer>
 </template>
 
