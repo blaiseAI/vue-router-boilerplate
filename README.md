@@ -1,5 +1,5 @@
 # Single Page Application Boilerplate
-
+![header](/src/assets/readme_logo@2x.jpg)
 ## Project setup
 ```
 npm install
