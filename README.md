@@ -1,4 +1,4 @@
-# Single Page Application
+# Single Page Application Boilerplate
 
 ## Project setup
 ```
@@ -22,5 +22,3 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
-# vue-router-boilerplate
-# vue-router-boilerplate
