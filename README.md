@@ -1,9 +1,12 @@
 # Single Page Application Boilerplate
-![header](/src/assets/readme_logo@2x.jpg)
+![header](/src/assets/images/readme_logo@2x.jpg)
 > A boilerplate for building medium to large Vue 2 single page applications
 
 This boilerplate is based on the Vue webpack template.
 Common topics are discussed in the VueJS [docs](http://vuejs-templates.github.io/webpack). Make sure to read it!
+
+## Screenshot Preview
+![screenshots](/src/assets/images/screenshot.png)
 ## Project setup
 ```
 npm install
