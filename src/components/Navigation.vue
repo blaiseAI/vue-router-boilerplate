@@ -1,7 +1,7 @@
 <template>
     <header class="lg:px-16 px-6 bg-white flex flex-wrap items-center lg:py-0 py-2">
         <div class="flex-1 flex justify-between items-center">
-            <router-link to="/">Brand</router-link>
+            <router-link to="/">Your Brand</router-link>
             <label for="menu-toggle" class="cursor-pointer lg:hidden block">
                <svg xmlns="http://www.w3.org/2000/svg" class="fill-current text-gray-900" width="24" height="24" viewBox="0 0 24 24"><path d="M24 6h-24v-4h24v4zm0 4h-24v4h24v-4zm0 8h-24v4h24v-4z"/></svg>
             </label>
