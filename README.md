@@ -8,8 +8,12 @@ Common topics are discussed in the VueJS [docs](http://vuejs-templates.github.io
 ## Screenshot Preview
 ![screenshots](./src/assets/images/screenshot.png)
 ## Project setup
+## Clone Repository
 ```
-git clone https://github.com/blaiseAI/vue-router-boilerplate.git
+```
+## Get Dependencies
+```
+npm install
 ```
 
 ## Change directory
