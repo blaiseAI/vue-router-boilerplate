@@ -9,7 +9,17 @@ Common topics are discussed in the VueJS [docs](http://vuejs-templates.github.io
 ![screenshots](./src/assets/images/screenshot.png)
 ## Project setup
 ```
-npm install
+git clone https://github.com/blaiseAI/vue-router-boilerplate.git
+```
+
+## Change directory
+```
+cd vue-router-boilerplate
+```
+
+## Open in Editor
+```
+code .
 ```
 
 ### Compiles and hot-reloads for development
