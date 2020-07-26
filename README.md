@@ -10,6 +10,7 @@ Common topics are discussed in the VueJS [docs](http://vuejs-templates.github.io
 ## Project setup
 ## Clone Repository
 ```
+git clone https://github.com/blaiseAI/vue-router-boilerplate.git
 ```
 ## Get Dependencies
 ```
